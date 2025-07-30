@@ -1,6 +1,8 @@
 # House_Pricing_Predictions
 
-Task - Predict the prices of houses in california based on given data
+Task - Predict the prices of houses in california based on given data.
+
+
 in repository we can see already performed task in jupyter notebook (stuff that i have made in it is decribed down below).
 and there is also second file , house.csv where u can see all the data which i have used to perform predictions.
 
